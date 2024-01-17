@@ -1,0 +1,1 @@
+console.log("Digite o nome do herói aqui")
